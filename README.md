@@ -20,6 +20,7 @@ My Partner for this code challenge was Osborn Del Angel.
   -Return the modified string.
 
 #Solution:
+
 list = [2,4,6,-8]
 value = n
 def insert_shift_array:
